@@ -34,7 +34,7 @@ body {
 }
 
 .container {
-    width: min(90vw, 800px);
+    width: min(90vw, 860px);
     margin: auto;
 }
 
@@ -284,7 +284,7 @@ footer {
 }
 
 /* =====RESPONSIVE=====*/
-@media (min-width: 800px) {
+@media (min-width: 1024px) {
     html {
         font-size: 87,5%;
     }
@@ -292,6 +292,6 @@ footer {
     #balance {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
-        gap: 1.9rem;
+        gap: 2rem;
     }
 }
