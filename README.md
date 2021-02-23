@@ -10,43 +10,51 @@
 [Layout](#layout)&nbsp;&nbsp;|&nbsp;&nbsp;
 [Etapas](#steps)&nbsp;&nbsp;|&nbsp;&nbsp;
 [Tecnologias](#tech)&nbsp;&nbsp;|&nbsp;&nbsp;
+[Milha Extra](#extra)&nbsp;&nbsp;|&nbsp;&nbsp;
 [Licença](#license)<br><br>
 </div>
 
 <div id="project">
 
-# 💻 Projeto
+## 💻 Projeto
 O dev.finance$ é uma aplicação de controle financeiro em que se é capaz de cadastrar e excluir transações, além de visualizar o saldo das entradas e saídas realizadas.
 <br><br>
 </div>
 
 <div id="layout">
 
-# 🖌 Layout
+## 🖌 Layout
 <p align="justify">
-    Visualize o layout do projeto <a href="https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover">aqui</a>. Para isso, é necessário ter uma conta Figma.
+    Visualize o layout do projeto <a href="https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover" target="_blank" rel="noreferrer noopener">aqui</a>. Para isso, é necessário ter uma conta Figma.
 <br><br>
 </p>
 </div>
 
 <div id="steps">
 
-# ✔ Etapas
+## ✔ Etapas
 - [x] Base da aplicação
 - [x] Finalização do HTML + CSS
-- [] Adição do Javascript
-- [] Finalização
+- [x] Adição do Javascript
+- [] Milha Extra
 <br><br>
 </div>
 
 <div id="tech">
 
-# 👩‍💻 Tecnologias
+## 👩‍💻 Tecnologias
 
 O dev.finance$ foi desenvolvido com as tecnologias:
 - HTML
 - CSS
 - Javascript
+<br><br>
+</div>
+
+<div id="extra">
+
+## 🛣 Milha Extra
+🚧 Em desenvolvimento 🚧
 <br><br>
 </div>
 
@@ -57,7 +65,7 @@ O dev.finance$ foi desenvolvido com as tecnologias:
 
 <div id="licence">
 
-# 📃Licença
+## 📃Licença
 Projeto sob a licença MIT. Para mais detalhes, acesse [LICENSE](LICENSE).
 <br><br>
 </div>

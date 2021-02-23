@@ -1,6 +1,6 @@
 /* =====GLOBAL=====*/
 :root {
-    --dark-blue: #363f53;
+    --dark-blue: #363f5f;
     --green: #49AA26;
     --light-green: #3dd705;
     --red: #e92929;
@@ -34,7 +34,7 @@ body {
 }
 
 .container {
-    width: min(90vw, 860px);
+    width: min(90vw, 1024px);
     margin: auto;
 }
 
@@ -78,6 +78,7 @@ button:hover {
 .button.new {
     display: inline-block;
     margin-bottom: .8rem;
+    
 }
 
 .button.cancel {
@@ -292,6 +293,6 @@ footer {
     #balance {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
-        gap: 2rem;
+        gap: 1.5rem;
     }
 }

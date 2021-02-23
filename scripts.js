@@ -13,33 +13,6 @@ const Modal = {
     }
 }
 
-/*const transactions = [
-    {
-        //id: 0,
-        description: 'Luz',
-        amount: -50000,
-        date: '23/01/2021',
-    },
-    {
-        //id: 1,
-        description: 'Website',
-        amount: 500000,
-        date: '23/01/2021',
-    },
-    {
-        //id: 2,
-        description: 'Internet',
-        amount: -20000,
-        date: '23/01/2021',
-    },
-    {
-        //id: 3,
-        description: 'App',
-        amount: 200000,
-        date: '23/01/2021',
-    },
-];*/
-
 const Storage = {
     get() {
         return JSON.parse(localStorage.getItem("dev.finances:transactions")) || []
@@ -224,7 +197,7 @@ const DOM = {
     },
 
     clearTransactions() {
-        DOM.transactionsContainer.innerHTML = ""
+        DOM.addTransaction.innerHTML = ""
     }
 }
 
